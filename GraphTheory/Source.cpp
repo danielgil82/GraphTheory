@@ -1,10 +1,10 @@
+///
+/// Graph Theory: Done By Daniel Gil & Shelly Zurbinski
+///
+
 #include <queue>
 #include <string>
 #include <ctime>
-///
-/// Graph Theory
-///
-
 #include <iostream>
 #include <fstream>
 #include <vector>
