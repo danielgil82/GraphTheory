@@ -142,7 +142,6 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="README.md" />
     <None Include="Threshold1.csv" />
     <None Include="Threshold2.csv" />
     <None Include="Threshold3.csv" />
