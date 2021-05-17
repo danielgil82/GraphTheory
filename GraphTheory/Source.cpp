@@ -1,5 +1,5 @@
 ///
-/// Graph Theory: Done By Daniel Gil & Shelly Zurbinski
+/// Graph Theory: Done By Daniel Gil & Shelly Jurbinsky
 ///
 
 #include <queue>
